@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="201px" height="202px" viewBox="0 0 201 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch Beta 41 (35299) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo">
+            <rect id="Rectangle" fill="#D0011B" x="1" y="1" width="200" height="200" rx="10"></rect>
+            <text id="CFD" font-family="Calibri" font-size="64" font-weight="normal" fill="#F8E81C">
+                <tspan x="50" y="74">CFD</tspan>
+            </text>
+            <path d="M39.5,113 L176.686005,113" id="Line" stroke="#F8E81C" stroke-width="14" stroke-linecap="square"></path>
+            <path d="M39.5,173 L176.686005,173" id="Line" stroke="#F8E81C" stroke-width="14" stroke-linecap="square"></path>
+            <path d="M39.5,143 L176.686005,143" id="Line" stroke="#F8E81C" stroke-width="14" stroke-linecap="square"></path>
+        </g>
+    </g>
+</svg>
