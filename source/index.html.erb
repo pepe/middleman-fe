@@ -1,7 +1,6 @@
 ---
 title: Welcome to Middleman
 ---
-
 <div class="row">
   <div class="col-md-4">
     <div class="logo">
@@ -30,6 +29,16 @@ title: Welcome to Middleman
       <input class="form-control" type="text">
     </div>
   </div>
-    <button type="submit" class="btn btn-default">Submit</button>
+    <button id="submit" type="submit" class="btn btn-default">Submit</button>
   </form>
 </div>
+
+<script>
+$("form").on("submit", function (e) {
+  var f = $(e.target)
+  f.fadeOut();
+  setTimeout(function() {f.fadeIn()}, 2000);
+  e.stopPropagation();
+  e.preventDefault()
+})
+</script>
